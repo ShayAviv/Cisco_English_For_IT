@@ -227,4 +227,4 @@
 | **3** | (doubts, have, some, I) .......... over whether everything was fully compliant. | I have some doubts |
 | **4** | (sure, not, I, absolutely, am) .......... , but I believe everything went smoothly with the audit. | I am not absolutely sure |
 | **5** | He says that everything was fully compliant, but .......... (that, doesn't, afraid, right, I'm, me, to). | I'm afraid that doesn't sound right to me |
-| **6** | To be honest, .......... (certain, I’m, entirely, not, that’s, true). | To be honest, I’m not entirely certain that’s true. |
+| **6** |.......... (certain, I’m, entirely, not, that’s, true). | To be honest, I’m not entirely certain that’s true. |
