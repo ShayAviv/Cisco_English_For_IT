@@ -547,7 +547,7 @@
 | **#** | **Question** | **Answer** |
 |---|-------------|------------|
 | **1** | Person A: Should the policy be sent to both external and internal recipients? Person B: Yes, everyone definitely has to have a copy. | It is definitely necessary to send the policy to everyone. |
-| **2** | Person A: How detailed should our security policy be? Person B: It's supposedly meant to be extensive, but the last one was very brief. | The policy is supposedly meant to be extensive. |
+| **2** | Person A:It's supposedly meant to be extensive, but the last one was very brief. |
 | **3** | Person A: What should you do if you receive a call claiming to be from your bank? Person B: You should definitely not agree to do anything they say without verifying the call first. | Definitely verify the call before acting. |
 | **4** | Person A: What does a well-prepared and understandable IS Policy look like? Person B: It certainly demonstrates that security has been addressed in the company. | A well-prepared policy certainly demonstrates addressed security concerns. |
 | **5** | Person A: I received a call from the bank asking me to download this app. Person B: Be careful\! You supposedly shouldn't download apps from untrusted sources. | Be careful and don't download apps from untrusted sources. |
